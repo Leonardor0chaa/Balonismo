@@ -2,11 +2,20 @@ public class Pessoa {
 
     //Atributos
     String nome;
-    double cpf;
-    double rg;
-    int telefone;
 
+    String CPF;
 
+    String RG;
+
+    String telefone;
+
+    String telemergencia;
+
+    String rua;
+    String bairro;
+    String cidade;
+
+    boolean termoCienciaRisco;
 
     //Métodos
     public void pesquisarEmpresa(){
