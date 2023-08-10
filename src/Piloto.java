@@ -5,4 +5,9 @@ public class Piloto {
     String cpf;
     String registro;
 
+    //Métodos
+    public void pilotar(){
+
+    }
+
 }
